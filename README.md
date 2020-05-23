@@ -1,2 +1,1 @@
-# First-One
-Hello World
+# Deep Learning Mnist
